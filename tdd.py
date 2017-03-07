@@ -7,4 +7,4 @@ def solution(x):
                     break
                 else:
                     print(num)
-print(solution(99))
+print(solution(1))
